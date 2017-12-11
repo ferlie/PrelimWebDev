@@ -1,0 +1,107 @@
+body{
+    background-color: cadetblue;
+    
+}
+.wrapper{
+   
+    margin-top: 0 px;
+    margin-bottom: 0 px;
+    text-align: center;
+    width: 80%;
+}
+.logo{
+    height: 100px;
+    background-color: dodgerblue;
+    width: 101.4%;
+    float: left;
+    margin-left:auto;
+    margin-right:auto;
+    border-top-left-radius: 3pc;  
+    border-top-right-radius: 3pc;
+    text-align: center;
+    box-shadow: 10pc;
+}
+.nav{
+    height: 40px; 
+    background-color: fuchsia; 
+    width: 101.4%;
+    float: left;
+    text-align: center;
+    margin-bottom: 5px;
+}
+.search{
+    height: 805px; 
+    background-color: yellow; 
+    width: 20%;
+    float: left;
+    text-align: center;
+    margin-right: 5px;
+ 
+}
+.banner{
+    height: 800px; 
+    background-color: beige; 
+    width: 40%;
+    float: left;
+    text-align: center;
+    margin-right: 5px;
+    
+}
+.prod{
+    height: 300px; 
+    background-color: hotpink; 
+    width: 100%;
+    float: center;
+    
+    
+}
+.products{
+    height: 300px; 
+    background-color: orangered; 
+    width: 90%;
+    float: center;
+    text-align: left;
+     margin-left: 2pc;
+     margin-right: 2pc;
+     margin-bottom: 2pc;
+}
+.sidenav{
+    height: 500px; 
+    background-color: lightblue; 
+    width: 10%;
+    float: left;
+    text-align: center;
+     margin-right: 5px;
+    
+}
+.categories{
+    height: 500px; 
+    background-color: cyan; 
+    width: 10%;
+    float: left;
+    text-align: center;
+  
+}
+.otheroffer{
+    height: 300px; 
+    background-color: crimson; 
+    width: 20.5%;
+    float: left;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 6px;
+  
+}
+
+.footer{
+    width:81.3%;
+    height:60px;
+    margin-left:auto;
+    margin-right:auto;
+    background-color:pink;
+    float:left;
+    margin-bottom:3px;
+    border-bottom-right-radius:2pc;
+    border-bottom-left-radius:2pc;
+    text-align: center;
+}
